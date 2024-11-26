@@ -1,0 +1,102 @@
+Ingreso|1e+14|Depósito en efectivo
+Compra Dolares|1e+12|Compra de 1000000000.000000 USD
+Retiro Dolares|1000|Retiro de 1000 USD. Billetes de $100: 10, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Ingreso|1e+16|Depósito en efectivo
+Compra Dolares|1e+09|Compra de 1000000.000000 USD
+Retiro Dolares|1000|Retiro de 1000 USD. Billetes de $100: 10, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Ingreso|1e+13|Depósito en efectivo
+Compra Dolares|1e+12|Compra de 1000000000.000000 USD
+Retiro Dolares|10000|100
+
+Retiro Dolares|100|1
+
+Retiro Dolares|1000|10
+
+Compra Dolares|1e+08|Compra de 100000.000000 USD
+Ingreso|1e+21|Depósito en efectivo
+Compra Dolares|1e+08|Compra de 100000.000000 USD
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Retiro Dolares|0|Retiro de 0 USD. Billetes de $100: 0, Billetes de $50: 0, Billetes de $20: 0, Billetes de $10: 0
+Ingreso|1e+08|Depósito en efectivo
+Ingreso|1e+08|Depósito en efectivo
+Ingreso|1e+11|Depósito en efectivo
+Plazo Fijo|1000|Plazo Fijo. Monto: $1000, Días: 31, Interés: $59.4521, Total: $1059.45
+Ingreso|1e+12|Depósito en efectivo
+Ingreso|1e+16|Depósito en efectivo
+Retiro|200000|Extracción de efectivo
+Compra Dolares|2e+06|Compra de 2000.000000 USD
+Plazo Fijo|1000|Plazo Fijo. Monto: $1000, Dias: 36, Interes: $69.0411, Total a pagar: $1069.04

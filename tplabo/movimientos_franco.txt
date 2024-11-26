@@ -1,0 +1,25 @@
+Fecha|Tipo|Monto|Descripción
+Ingreso|1000|Depósito en efectivo
+Retiro|1000|Extracción de efectivo
+Ingreso|1000|Depósito en efectivo
+Ingreso|900|Depósito en efectivo
+Ingreso|1e+16|Depósito en efectivo
+Plazo Fijo|1e+06|Plazo Fijo. Monto: $1e+06, Días: 35, Interés: $67123.3, Total: $1.06712e+06
+Compra Dolares|1e+09|Compra de 1000000.000000 USD
+Retiro Dolares|1000|10
+
+Plazo Fijo|100000|Plazo Fijo. Monto: $100000, Días: 37, Interés: $7095.89, Total: $107096
+Ingreso|1e+14|Depósito en efectivo
+Ingreso|1e+21|Depósito en efectivo
+Compra Dolares|1e+08|Compra de 100000.000000 USD
+Plazo Fijo|10000|Plazo Fijo. Monto: $10000, Dias: 35, Interes: $671.233, Total a pagar: $10671.2
+Cancelación Plazo Fijo|10000|Cancelación Plazo Fijo. Monto original: $10000, Días: 35, Interés perdido: $671.233
+Ingreso|1e+21|Depósito en efectivo
+Retiro|100000|Extracción de efectivo
+Compra Dolares|1e+09|Compra de 1000000.000000 USD
+Venta Dolares|1e+07|Venta de 10000.000000 USD
+Retiro Dolares|100000|1000
+
+Plazo Fijo|100000|Plazo Fijo. Monto: $100000, Dias: 36, Interes: $6904.11, Total a pagar: $106904
+Cancelación Plazo Fijo|100000|Cancelación Plazo Fijo. Monto original: $100000, Días: 36, Interés perdido: $6904.11
+Préstamo|1.5e+20|Préstamo del 15% (saldo > $100.000)

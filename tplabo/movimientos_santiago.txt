@@ -1,0 +1,10 @@
+Fecha|Tipo|Monto|Descripción
+Ingreso|1000|Depósito en efectivo
+Retiro|1000|Extracción de efectivo
+Ingreso|1e+15|Depósito en efectivo
+Plazo Fijo|100000|Plazo Fijo. Monto: $100000, Dias: 35, Interes: $6712.33, Total a pagar: $106712
+Cancelación Plazo Fijo|100000|Cancelación Plazo Fijo. Monto original: $100000, Días: 35, Interés perdido: $6712.33
+Plazo Fijo|100000|Plazo Fijo. Monto: $100000, Dias: 35, Interes: $6712.33, Total a pagar: $106712
+Cancelación Plazo Fijo|100000|Cancelación Plazo Fijo. Monto original: $100000, Días: 35, Interés perdido: $6712.33
+Ingreso|1e+24|Depósito en efectivo
+Préstamo|1e+23|Préstamo del 10% (saldo > $50.000)
